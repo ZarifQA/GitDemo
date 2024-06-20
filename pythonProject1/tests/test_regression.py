@@ -26,6 +26,7 @@ class TestEndToEnd(BaseClass):
             if country.text == "United Kingdom (UK)":
                 country.click()
             break
+        print("This is a newly created message for git session. ")
         #
         # checkout_page.get_frames()
         # checkout_page.get_switch_frame()
