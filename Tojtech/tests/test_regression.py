@@ -32,3 +32,5 @@ class TestEndToEnd(BaseClass):
         # checkout_page.get_number_of_input().click().send_keys("4242424242424242")
         # checkout_page.get_place_order()
 
+
+        print("new new")
